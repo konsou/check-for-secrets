@@ -1,4 +1,6 @@
 python-dotenv
 black
+tiktoken
 
 git+https://github.com/konsou/llm-api.git
+
