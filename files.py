@@ -3,7 +3,7 @@ from typing import Generator, NamedTuple
 
 
 class FileNameAndContent(NamedTuple):
-    filename: str
+    name: str
     content: str
 
 
